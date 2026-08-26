@@ -1,0 +1,4 @@
+interface PortaInvalida
+ switchport access vlan 9999
+ ip address 999.999.999.999/24
+ ipv6 address 2001:db8::1/200

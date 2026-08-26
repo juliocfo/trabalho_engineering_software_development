@@ -1,0 +1,2 @@
+interface PortaQualquer1
+ switchport access vlan 10

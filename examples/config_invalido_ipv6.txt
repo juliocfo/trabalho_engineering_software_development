@@ -1,0 +1,2 @@
+interface GigabitEthernet0/1
+ ipv6 address 2001:db8::1/200

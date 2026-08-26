@@ -1,0 +1,2 @@
+interface GigabitEthernet0/1
+ ip address 999.999.999.999/24
